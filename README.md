@@ -5,7 +5,7 @@ This is collection of professional and free time projects I've worked on.
 ## Professional work
 This list includes work I got paid for, in chronological order. Some of that work isn't online any more or it's behind authentication.
 
-* AP News website rewrite (plan to finish in autumm 2018)
+* AP News website rewrite (release planned for autumm 2018)
     * Express + React, with SSR and CSR
     * worked solo
 * Cashlook website
