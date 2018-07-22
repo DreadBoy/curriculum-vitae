@@ -57,7 +57,7 @@ From time to time I like to experiment with new things and Github is where I pub
     * Using genetics algorithms to find optimal starting position for modified Game of life
     * https://github.com/DreadBoy/dandelifeon
 * Minecraft crafting assistant
-    * Simple Google Assistant app that helps you calculate amount of resources you need to any recipe in Minecraft.
+    * Simple Google Assistant app that helps you calculate amount of resources you need for any recipe in Minecraft.
     * https://github.com/DreadBoy/crafting-calculator
 * Linking shots
     * Demo for fast-paced bullet hell game where main gameplay loop includes time rewing
