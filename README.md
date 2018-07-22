@@ -32,7 +32,7 @@ This list includes work I got paid for, in chronological order. Some of that wor
     * worked in team of two
 
 ## Game jams
-I often take part in offline game jams, where you have to start and finish functioning game on 48 hours. Teams are created on spot and most of the time consist of complete strangers that have to work together. At all of these jams I participate as programmer.
+I often take part in offline game jams, where you have to start and finish functioning game on 48 hours. Teams are created on spot and in most cases consist of complete strangers that have to work together. At all of these jams I participate as programmer.
 
 * Drift EZ
     * 2vs2 racing game where each member of duo controls one aspect of their car
