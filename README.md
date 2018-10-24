@@ -53,6 +53,9 @@ I often take part in offline game jams, where you have to start and finish funct
 ## Free time projects
 From time to time I like to experiment with new things and Github is where I publish those experiments.
 
+* S-Gym
+    * Concept of smart bouldering gym that tracks user's climbing using stationary webcams and image recognition
+    * https://github.com/DreadBoy/s-gym
 * Dandelifion
     * Using genetics algorithms to find optimal starting position for modified Game of life
     * https://github.com/DreadBoy/dandelifeon
@@ -60,7 +63,7 @@ From time to time I like to experiment with new things and Github is where I pub
     * Simple Google Assistant app that helps you calculate amount of resources you need for any recipe in Minecraft.
     * https://github.com/DreadBoy/crafting-calculator
 * Linking shots
-    * Demo for fast-paced bullet hell game where main gameplay loop includes time rewing
+    * Demo for fast-paced bullet hell game where main gameplay loop includes time rewinding
     * https://github.com/DreadBoy/linking-shots
     * After playtesting it turned out time rewinding isn't as fun in fast-paced games as in puzle games so I scrapped the project
 * SpaceyOS
