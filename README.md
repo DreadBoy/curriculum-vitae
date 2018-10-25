@@ -59,9 +59,9 @@ From time to time I like to experiment with new things and Github is where I pub
 * Dandelifion
     * Using genetics algorithms to find optimal starting position for modified Game of life
     * https://github.com/DreadBoy/dandelifeon
-* Minecraft crafting assistant
-    * Simple Google Assistant app that helps you calculate amount of resources you need for any recipe in Minecraft.
-    * https://github.com/DreadBoy/crafting-calculator
+* Wizard Cuby
+    * Google Assistant app that helps you roll any combination of dice, 5d6 for example, making big rolls in D&D easier
+    * https://github.com/DreadBoy/wizard-cube
 * Linking shots
     * Demo for fast-paced bullet hell game where main gameplay loop includes time rewinding
     * https://github.com/DreadBoy/linking-shots
