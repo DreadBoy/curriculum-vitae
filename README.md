@@ -5,12 +5,18 @@ This is collection of professional and free time projects I've worked on.
 ## Professional work
 This list includes work I got paid for, in chronological order. Some of that work isn't online any more or it's behind authentication.
 
+* Ion's landing page
+   * ion.inova.si/en.html
+* AP's management dashboard
+    * internal dashboard for backend settings and analytics
 * AP News website rewrite (released in 2018)
     * Koa + React, with client- and server-side rendering
     * worked solo
+    * apnews.com
 * Cashlook website
     * Express + Pug, vanilla Javascript for progressive improvements
     * worked solo
+    * cashlook.com
 * System for remote patients' care
     * AngularX
     * worked solo, together with external code reviewer and another teams
