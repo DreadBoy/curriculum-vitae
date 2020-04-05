@@ -26,6 +26,9 @@ International Baccalaureate
 
 I've been working part time during studies since 2011 and fulltime since 2017. I focus on web frontend and my current skill set includes React, Angular (different flavours: AngularDart, AngularX, AngularJS), Vue and Aurelia, while I'm also familiar with jQuery, Bootstrap and Materialize. I usually pick what is the most appropriate tool for a job. I've also worked on backend systems, namely with Express, Koa, .Net MVC, .Net Core and Lumen. I'm fluent in Javascript, Typescript, Dart and C# but I've programmed in Python, Java, Kotlin and PHP too. Usually I work in smaller teams or solo so I need to take care of dev ops, too. I'm experienced with Jenkins, Git (CLI and Gitlab/Github) and various build tools that projects require (Gulp, Webpack, Gradle). I'm big believer in CI and automatic deployments and always strive for it. In the past I've deployed my systems to AWS, Heroku, Firebase and custom Dockerized swarm but I'm most familiar with Google's AppEngine and associated services (Datastore, Memcache, Cloud Storage, Stackdriver, Big Query...).  I've dabbled in data science, AI and big data in the past but my main focus is web and game development. Since last year I'm also working on native Flutter app. I speak fluent Slovene and English and I can also hold a conversation in German. 
 
+## Interests
+What shaped me most in my life is climbing, which I practiced for over 20 years, since I was 5. Sports gave me great working skills, discipline, perseverance and open-mindedness. I consider myself as ambitious and pragmatic person, always eager to learn and striving for more.
+
 Below is a collection of professional and free time projects I've worked on. 
 ## Professional work
 This list includes work I got paid for, in chronological order. Some of that work isn't online any more or is behind authentication.
