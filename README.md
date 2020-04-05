@@ -1,10 +1,42 @@
 # Curriculum Vitae
-I've finished International Baccalaureate in 2010 and Master's degree in computer science in 2017. I've been working part time during studies since 2011 and fulltime since 2017. I focus on web frontend and my current skill set includes React, Angular (different flavours: AngularDart, AngularX, AngularJS) and Aurelia, while I'm also familiar with jQuery, Bootstrap and Materialize. I usually pick what is the most appropriate tool for a job. I've also worked on backend systems, namely with Express, Koa, .Net MVC and .Net Core. I'm fluent in Javascript, Typescript, Dart and C# but I've programmed in Python, Java and Kotlin too. Usually I work in smaller teams or solo so I need to take care of dev ops, too. I'm experienced with Jenkins, Git (Gitlab and Github) and various build tools that projects require (Gulp, Webpack, Gradle). I'm big believer in CI and automatic deployments and always strive for it. In the past I've deployed my systems to AWS, Heroku and Firebase but I'm most familiar with Google's AppEngine and associated services (Datastore, Memcache, Cloud Storage, Stackdriver, Big Query...).  I've dabbled in data science, AI and big data in the past but my main focus is web and game development. I speak fluent Slovene and English and I can also hold a conversation in German. 
+
+Matic Leva  
+maticleva@maticleva.com  
+https://github.com/DreadBoy  
+https://maticleva.com/
+
+## Professional Summary
+Frontend master with 7+ years of experience. Skilled in 5 major frontend frameworks with a flair for creating performant solutions, tailored to clients' needs. Developed AP's new costumer-facing website, increasing their traffic to 20 million monthly unique users.
+
+## Education
+
+2013 - 2015  
+Faculty of Electrical Engineering and Computer Science, University of Maribor  
+Master's degree
+
+2010 - 2013  
+Faculty of Electrical Engineering and Computer Science, University of Maribor  
+Bachelor's degree
+
+2006 - 2010  
+The Second Gymnasium Maribor  
+International Baccalaureate
+
+## Work experience
+
+I've been working part time during studies since 2011 and fulltime since 2017. I focus on web frontend and my current skill set includes React, Angular (different flavours: AngularDart, AngularX, AngularJS), Vue and Aurelia, while I'm also familiar with jQuery, Bootstrap and Materialize. I usually pick what is the most appropriate tool for a job. I've also worked on backend systems, namely with Express, Koa, .Net MVC, .Net Core and Lumen. I'm fluent in Javascript, Typescript, Dart and C# but I've programmed in Python, Java, Kotlin and PHP too. Usually I work in smaller teams or solo so I need to take care of dev ops, too. I'm experienced with Jenkins, Git (CLI and Gitlab/Github) and various build tools that projects require (Gulp, Webpack, Gradle). I'm big believer in CI and automatic deployments and always strive for it. In the past I've deployed my systems to AWS, Heroku, Firebase and custom Dockerized swarm but I'm most familiar with Google's AppEngine and associated services (Datastore, Memcache, Cloud Storage, Stackdriver, Big Query...).  I've dabbled in data science, AI and big data in the past but my main focus is web and game development. Since last year I'm also working on native Flutter app. I speak fluent Slovene and English and I can also hold a conversation in German. 
 
 Below is a collection of professional and free time projects I've worked on. 
 ## Professional work
-This list includes work I got paid for, in chronological order. Some of that work isn't online any more or it's behind authentication.
+This list includes work I got paid for, in chronological order. Some of that work isn't online any more or is behind authentication.
 
+* Ticy native app
+   * cross-platform Flutter app for users of SmartCity platform
+   * picked up project midway through its development but worked solo since then
+   * currently still in development
+* Ticy API
+   * Lumen powered API for Ticy app
+   * part of microservice structure of SmartCity platform
 * Ion's landing page
    * ion.inova.si/en.html
 * AP's management dashboard
