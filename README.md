@@ -3,7 +3,7 @@
 Matic Leva  
 maticleva@maticleva.com  
 https://github.com/DreadBoy  
-https://maticleva.com/
+http://maticleva.com/
 
 ## Professional Summary
 Frontend master with 7+ years of experience. Skilled in 5 major frontend frameworks with a flair for creating performant solutions, tailored to clients' needs. Developed AP's new costumer-facing website, increasing their traffic to 20 million monthly unique users.
