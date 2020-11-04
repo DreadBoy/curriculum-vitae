@@ -94,6 +94,12 @@ I often take part in offline game jams, where you have to start and finish funct
 ## Free time projects
 From time to time I like to experiment with new things and Github is where I publish those experiments.
 
+* Crit Hit
+    * Encounter tracker for tabletop RPG games, currently in beta but already used actively
+    * http://crit-hit-dev.ew.r.appspot.com/
+* giraffe
+    * Simple Imgur frontpage browser that can be installed as PWA
+    * https://dreadboy.github.io/giraffe/
 * S-Gym
     * Concept of smart bouldering gym that tracks user's climbing using stationary webcams and image recognition
     * https://github.com/DreadBoy/s-gym
