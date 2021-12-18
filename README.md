@@ -139,6 +139,8 @@ From time to time I like to experiment with new things and Github is where I pub
     * educational game, teaching you basic economics' concept
     * https://github.com/DreadBoy/Economics-Come--Deliverance
 * a lot of short game concepts
+    * https://github.com/DreadBoy/total-war
+    * https://github.com/DreadBoy/piton
     * https://github.com/DreadBoy/rattle-sock
     * https://github.com/DreadBoy/Cotton-Candy-Defenders
     * https://github.com/DreadBoy/terrain-generation
