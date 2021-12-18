@@ -6,7 +6,7 @@ https://www.linkedin.com/in/matic-leva-408483110
 http://maticleva.com/
 
 ## Professional Summary
-Frontend master with 8+ years of experience. Skilled with major frontend frameworks with a flair for creating performant solutions, tailored to clients' needs. Developed AP's new costumer-facing website, increasing their traffic to 20 million monthly unique users.
+Frontend master with 8+ years of experience. Skilled with all major frontend frameworks with a flair for creating performant solutions, tailored to clients' needs. Developed AP's new costumer-facing website, increasing their traffic to 20 million monthly unique users.
 
 ## Education
 
