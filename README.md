@@ -1,8 +1,8 @@
 # Curriculum Vitae
 
 Matic Leva  
-maticleva@maticleva.com  
 https://github.com/DreadBoy  
+https://www.linkedin.com/in/matic-leva-408483110  
 http://maticleva.com/
 
 ## Professional Summary
@@ -24,7 +24,7 @@ International Baccalaureate
 
 ## Work experience and skills
 
-I've been working part time during studies since 2011 and fulltime since early 2017. I focus on web frontend and my current skill set includes React, Vue, Angular (different flavours: AngularDart, AngularX, AngularJS) and Aurelia, while I'm also familiar with jQuery and Bootstrap. I usually pick what is the most appropriate tool for a job. I've also worked on backend systems, namely with Express, Koa, .Net, and Laravel. I'm fluent in Javascript, Typescript, Dart and C# but I've programmed in Python, Java, Kotlin and PHP too. Usually I work in smaller teams or solo so I can take care of dev ops, too. I'm experienced with Jenkins, Gitlab CI, Git and various build tools that projects require (Gulp, Webpack, Gradle). I'm big believer in CI and automatic deployments and always strive for it. In the past I've deployed my systems to AWS, Heroku, Firebase and custom Dockerized swarm but I'm most familiar with Google's AppEngine and associated services (Datastore, Memcache, Cloud Storage, Stackdriver, Big Query...).  I've dabbled in data science, AI and big data in the past but my main focus is web and game development. For the last 2 years I'm also working on native Flutter app. I speak fluent Slovene and English and I can also hold a conversation in German. 
+I've been working part time during studies since 2011 and fulltime since early 2016. I focus on web frontend and my current skill set includes React, Vue, Angular (different flavours: AngularDart, AngularX, AngularJS) and Aurelia, while I'm also familiar with jQuery and Bootstrap. I usually pick what is the most appropriate tool for a job. I've also worked on backend systems, namely with Express, Koa, .Net, and Laravel. I'm fluent in Javascript, Typescript, Dart and C# but I've programmed in Python, Java, Kotlin and PHP too. Usually I work in smaller teams or solo so I can take care of dev ops, too. I'm experienced with Jenkins, Gitlab CI, Git and various build tools that projects require (Gulp, Webpack, Gradle). I'm big believer in CI and automatic deployments and always strive for it. In the past I've deployed my systems to AWS, Heroku, Firebase and custom Dockerized swarm but I'm most familiar with Google's AppEngine and associated services (Datastore, Memcache, Cloud Storage, Stackdriver, Big Query...).  I've dabbled in data science, AI and big data too but my main focus is fullstack web and game development. For the last 2 years I'm also working on native Flutter app. I speak fluent Slovene and English and I can also hold a conversation in German. 
 
 ## Interests
 What shaped me most in my life is climbing, which I practiced for over 20 years, since I was 5. Sports gave me great working skills, discipline, perseverance and open-mindedness. I keep broadening my open-mindedness by travelling to other countries and continents, usually for a couple of weeks at a time. My travels have found me enjoying indigenous wedding in Central Sulawesi, herding pigs in Colombia, driving across Australia's outback and sleeping in Moroccan tent in the desert, among other things. I consider myself as ambitious and pragmatic person, always eager to learn and striving for more.
@@ -41,6 +41,10 @@ This list includes work I got paid for, in chronological order. Some of that wor
 * Tool to generate and manage scientific articles
    * Vue powered frontend to bigger system
    * I was part of a bigger team that was working on the tool
+* Pebble mobile app
+   * I helped develop and ship a couple of features in open-source Pebble app
+   * https://github.com/pebble-dev/mobile-app/issues/82
+   * https://github.com/pebble-dev/mobile-app/issues/61
 * Ticy native app
    * cross-platform Flutter app for users of SmartCity platform
    * picked up project midway through its development, technical lead in a team of 2
@@ -102,12 +106,15 @@ I often take part in offline game jams, where you have to start and finish funct
 ## Free time projects
 From time to time I like to experiment with new things and Github is where I publish those experiments.
 
+* Tilia
+    * PoC automation game, written in Unity. I'm still working on it 🙂 
+    * https://github.com/DreadBoy/tilia
 * Crit Hit
     * Encounter tracker for tabletop RPG games, currently in beta but already used actively
-    * http://crit-hit-dev.ew.r.appspot.com/
+    * https://battly-rolly.herokuapp.com
 * giraffe
     * Simple Imgur frontpage browser that can be installed as PWA
-    * https://dreadboy.github.io/giraffe/
+    * https://dreadboy.github.io/giraffe
 * S-Gym
     * Concept of smart bouldering gym that tracks user's climbing using stationary webcams and image recognition
     * https://github.com/DreadBoy/s-gym
