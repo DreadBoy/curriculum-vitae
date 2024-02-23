@@ -1,12 +1,11 @@
 # Curriculum Vitae
 
-Matic Leva  
+Matic Kravina Leva  
 https://github.com/DreadBoy  
 https://www.linkedin.com/in/matic-leva-408483110  
-http://maticleva.com/
 
 ## Professional Summary
-Fullstack developer, technical team lead and mentor with 8+ years of experience. I'm precise, responsible and with a flair for creating performant solutions, tailored to clients' needs. My biggest achievement is development of AP's new costumer-facing website, increasing their traffic to 20 million monthly unique users.
+Fullstack developer, technical team lead and mentor with 10+ years of experience. I'm precise, responsible and with a flair for creating performant solutions, tailored to clients' needs. My biggest achievement is development of AP's new costumer-facing website, increasing their traffic to 20 million monthly unique users.
 
 ## Education
 
@@ -21,15 +20,6 @@ Bachelor's degree
 2007 - 2011  
 The Second Gymnasium Maribor  
 International Baccalaureate
-
-## Work experience and skills
-
-These are the tools I've worked with in the past:
-* React, Vue, Angular (AngularX, AngularDart, AngularJS), Aurelia, jQuery
-* Express, Koa, .Net, Laravel
-* Javascript, Typescript, Dart, C#, PHP, Phyton, Java, Kotlin
-* Gitlab CI, Jenkings, Docker, Webpack, Gulp, Gradle
-* AWS, Heroku, Firebase, AppEngine
 
 ## Interests
 What shaped me most in my life is climbing, which I practiced for over 20 years, since I was 5. Sports gave me great working skills, discipline, perseverance and open-mindedness. I keep broadening my open-mindedness by travelling to other countries and continents, usually for a couple of weeks at a time. My travels have found me enjoying indigenous wedding in Central Sulawesi, herding pigs in Colombia, driving across Australia's outback and sleeping in Moroccan tent in the desert, among other things. I consider myself as ambitious and pragmatic person, always eager to learn and striving for more.
